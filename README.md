@@ -35,34 +35,10 @@ This Application is designed to provide a platform for discussions and query res
    ![Screenshot](Snapshots/Welcome.png)
    
 
-* ### Developers Chat Room
 
-   ![Screenshot](Snapshots/DevRoom.png)
-   
-
-* ### Search Option and Tooltips
-
-   ![Screenshot](Snapshots/Search.png)
-   ![Screenshot](Snapshots/Tooltip.png)
-   
-
-* ### Upload files
-
-   ![Screenshot](Snapshots/Attach.png)
-   ![Screenshot](Snapshots/Upload.png)
-   
 
 * ### Making New Chat Room
 
    ![Screenshot](Snapshots/NewRoom.png)
    
 
-* ### IPL Discussion Chat Room
-
-   ![Screenshot](Snapshots/CompCodersRoom.png)
-   
-
-* ### Emoji Picker
-
-   ![Screenshot](Snapshots/EmojiPicker.png)
-   
