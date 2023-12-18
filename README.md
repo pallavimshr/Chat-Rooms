@@ -37,8 +37,3 @@ This Application is designed to provide a platform for discussions and query res
 
 
 
-* ### Making New Chat Room
-
-   ![Screenshot](Snapshots/NewRoom.png)
-   
-
