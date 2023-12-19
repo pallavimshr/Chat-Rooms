@@ -22,7 +22,7 @@ function Chat() {
     const [input, setInput] = useState('');
     const [{user}, dispatch] = useStateValue();
 
-    console.log(`isURL(): `, validator.isURL("htt//www.geeksforgeeks.org/how-to-validate-url-in-react/"));
+    
 
     const signOut = () =>
     {
